@@ -1,3 +1,3 @@
 # test-repo
 
-cci server form
+builly server formtype
