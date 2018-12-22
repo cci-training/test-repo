@@ -1,3 +1,3 @@
 # test-repo
 
-passing though as form
+A helpful contribution, this improves docs, and would be a valid use of your CI resources.
