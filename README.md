@@ -1,3 +1,3 @@
 # test-repo
 
-build bully in place.
+cci server
