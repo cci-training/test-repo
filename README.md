@@ -1,3 +1,3 @@
 # test-repo
 
-trigger a build
+This is friendly, just needs to be approved
