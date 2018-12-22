@@ -1,3 +1,3 @@
 # test-repo
 
-This ifs friendly, just needs ot be approved
+This is friendly, just needs to be approved
