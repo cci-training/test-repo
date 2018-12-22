@@ -1,3 +1,3 @@
 # test-repo
 
-cci server
+cci server form
